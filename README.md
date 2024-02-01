@@ -32,3 +32,4 @@ Supply configuration with environment variables.
 
 For ease of development, you can also use dotenv file in `config/.env` to specify configuration.
 Note that environment variables will take precedence over any configuration specified in `config/.env` file.
+# pragyan_hack_harhat
